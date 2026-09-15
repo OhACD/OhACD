@@ -12,4 +12,4 @@ Outside of work, I'm usually still thinking about backend architecture, or tryin
 
 #### Let's connect!
 [<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:imadeldeen007@gmail.com)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/OhACD)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](www.linkedin.com/in/mohamed-imadeldin-5045aa331)
